@@ -6,14 +6,6 @@ Solution to Smove's [Booking Ordering Problem](https://github.com/itatsmove/smov
 - [NPM](https://www.npmjs.com/) for Package Management
 - [Mocha](https://mochajs.org/)/[nyc](https://www.npmjs.com/package/nyc) for Unit Tests
 
-### Solution
-
-
-#### Installing dependencies
-```
-$ npm install
-```
-
 #### Running the app
 The app takes in JSON input file in `input/bookingordering.json` and then prints the expected output both in the terminal and in the output file found in `output/orderedbookings.json`.
 ```
